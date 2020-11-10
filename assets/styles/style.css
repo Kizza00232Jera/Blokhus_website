@@ -5,6 +5,13 @@
     padding: 0;
 }
 
+/* span, skeleton messages */
+.skeleton {
+    font-size: 8px;
+    color: red;
+}
+
+
 .text-primary {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
